@@ -1,2 +1,2 @@
 # youtube clone
-clone using html and cssHH
+A static website built using HTML and CSS
